@@ -110,7 +110,7 @@
   </section>
 
   <div class="contact">
-    <p>Hubungi Kami: <a href="tel:+6281234567890" style="color:#004aad; text-decoration:none;">+62 812-3456-7890</a></p>
+    <p>Hubungi Kami: <a href="tel:+6281573354593" style="color:#004aad; text-decoration:none;">+62815-7335-4593</a></p>
     <p>Email: <a href="mailto:info@pusatcctvbatam.com" style="color:#004aad; text-decoration:none;">info@pusatcctvbatam.com</a></p>
   </div>
 </div>
