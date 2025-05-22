@@ -2,7 +2,7 @@
 <html lang="id">
 
   <head>
-  <meta name="google-site-verification" content="googlec7399b59b314326f" />
+  <meta name="google-site-verification" content="googlec7399b59b314326f/>
 
 
 
