@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta name="google-site-verification" content="Vh9rRTI0jBt9uLNvqo6avzq2l5JIIWgNCLEWPG4Fx9o" />
+  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I"/>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pusat CCTV Batam</title>
