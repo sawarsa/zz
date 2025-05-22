@@ -2,8 +2,8 @@
 <html lang="id">
 
   <head>
-  <meta name="google-site-verification" content="googlec7399b59b314326f.html"/>
 
+<meta name="google-site-verification" content="Vh9rRTI0jBt9uLNvqo6avzq2l5JIIWgNCLEWPG4Fx9o" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pusat CCTV Batam - Jasa Pasang Kamera CCTV Terpercaya</title>
