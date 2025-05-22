@@ -3,11 +3,18 @@
 
   <head>
 
+  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pusat CCTV Batam - Jasa Pasang Kamera CCTV Terpercaya</title>
 
-<meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
+  <!-- Google Search Console Verification -->
+  <meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
+
+  <!-- Tag meta lainnya -->
+  <meta name="description" content="Jasa pasang CCTV profesional di Batam. Gratis survey, bergaransi dan terpercaya.">
+</head>
+
   
   <!-- Meta SEO -->
   <meta name="description" content="Jasa pemasangan CCTV terpercaya di Kota Batam. Kami menyediakan layanan CCTV untuk rumah, kantor, toko, dan area bisnis. Gratis survey & konsultasi!">
