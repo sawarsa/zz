@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="id">
-  <meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
-<head>
+
+  <head>
+  <meta name="google-site-verification" content= googlec7399b59b314326f/>
+
 
 
   <meta charset="UTF-8" />
