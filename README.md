@@ -7,7 +7,7 @@
 
   <!-- Google Search Console Verification -->
 
-
+google-site-verification: googlec7399b59b314326f.html
   <meta name="google-site-verification" content="Vh9rRTI0jBt9uLNvqo6avzq2l5JIIWgNCLEWPG4Fx9o" />
 
   <style>
