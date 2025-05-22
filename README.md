@@ -3,7 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Pusat CCTV Batam - Jasa Pasang CCTV Terpercaya</title>
+  <title>Pusat CCTV Batam - Jasa Pasang Kamera CCTV Terpercaya</title>
+
+  <!-- Meta SEO -->
+  <meta name="description" content="Jasa pemasangan CCTV terpercaya di Kota Batam. Kami menyediakan layanan CCTV untuk rumah, kantor, toko, dan area bisnis. Gratis survey & konsultasi!">
+  <meta name="keywords" content="CCTV Batam, pasang CCTV Batam, jasa CCTV murah Batam, pusat CCTV Batam">
+  <meta name="author" content="Pusat CCTV Batam">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Pusat CCTV Batam - Jasa Pasang CCTV Terpercaya">
+  <meta property="og:description" content="Layanan pemasangan kamera pengawas profesional di seluruh Batam. Harga bersahabat, kualitas terjamin.">
+  <meta property="og:url" content="https://rodania.github.io/landingpage-cctv/"> <!-- ganti dengan URL GitHub Pages kamu -->
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://example.com/logo.jpg"> <!-- ganti jika punya gambar -->
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -97,7 +110,7 @@
   </section>
 
   <div class="contact">
-    <p>Hubungi Kami: <a href="tel:+6281573354593" style="color:#004aad; text-decoration:none;">+62 815-7335-4593</a></p>
+    <p>Hubungi Kami: <a href="tel:+6281234567890" style="color:#004aad; text-decoration:none;">+62 812-3456-7890</a></p>
     <p>Email: <a href="mailto:info@pusatcctvbatam.com" style="color:#004aad; text-decoration:none;">info@pusatcctvbatam.com</a></p>
   </div>
 </div>
