@@ -2,8 +2,7 @@
 <html lang="id">
 
   <head>
-  <meta name="google-site-verification" content="googlec7399b59b314326f/>
-google-site-verification: googlec7399b59b314326f.html
+  <meta name="google-site-verification" content="googlec7399b59b314326f.html/>
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
