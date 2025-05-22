@@ -9,7 +9,8 @@
   <title>Pusat CCTV Batam - Jasa Pasang Kamera CCTV Terpercaya</title>
 
   <!-- Google Search Console Verification -->
-  <meta name="google-site-verification" content="Vh9rRTI0jBt9uLNvqo6avzq2l5JIIWgNCLEWPG4Fx9o" />
+  <meta name="google-site-verification" content="googlec7399b59b314326f" />
+  
 
   <!-- Tag meta lainnya -->
   <meta name="description" content="Jasa pasang CCTV profesional di Batam. Gratis survey, bergaransi dan terpercaya.">
