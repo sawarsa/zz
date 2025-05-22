@@ -6,7 +6,9 @@
   <title>Pusat CCTV Batam</title>
 
   <!-- Google Search Console Verification -->
-  <meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
+
+
+  <meta name="google-site-verification" content="Vh9rRTI0jBt9uLNvqo6avzq2l5JIIWgNCLEWPG4Fx9o" />
 
   <style>
     body {
