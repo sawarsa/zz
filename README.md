@@ -9,7 +9,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pusat CCTV Batam - Jasa Pasang Kamera CCTV Terpercaya</title>
 
-  <meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
+<meta name="google-site-verification" content="4t9W1pyX-28h2-h77AG9KZ_UiDvP3e1ZynQXDFCZtr0" />
+  
   <!-- Meta SEO -->
   <meta name="description" content="Jasa pemasangan CCTV terpercaya di Kota Batam. Kami menyediakan layanan CCTV untuk rumah, kantor, toko, dan area bisnis. Gratis survey & konsultasi!">
   <meta name="keywords" content="CCTV Batam, pasang CCTV Batam, jasa CCTV murah Batam, pusat CCTV Batam">
