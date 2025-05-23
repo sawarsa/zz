@@ -10,6 +10,7 @@
 
   <style>
     body {
+      
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
@@ -20,6 +21,7 @@
       color: white;
       padding: 20px;
       text-align: center;
+
     }
     section {
       padding: 20px;
@@ -47,15 +49,20 @@
     <h2>Layanan Kami</h2>
     <ul>
       <li>Instalasi CCTV Rumah & Kantor</li>
-      <li>Service dan Upgrade CCTV</li>
-      <li>Monitoring Online via HP</li>
+      <li>Fingerprint</li>
+      <li>Smartdoorlock</li>
+      <li>Pabx</li>
+      <li>Fire alarm</li>
+      <li>Service dan Upgrade</li>
+      <li>Survei gratis se kota batam</li>
     </ul>
   </section>
 
   <section>
     <h2>Kontak</h2>
-    <p>WhatsApp: 08xxxxxxxxxx</p>
-    <p>Lokasi: Kota Batam</p>
+    <p>WhatsApp: 0815-7335-4593</p>
+    <p>Facebook: Kamera cctv batam</p>
+    <p>Instagram: cctv_batam2</p>
   </section>
 
   <footer>
