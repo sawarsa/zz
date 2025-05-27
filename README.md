@@ -24,8 +24,6 @@
             padding: 15px;
             display: flex;
             justify-content: space-around;
-            
-            
         }
         nav a {
             color: white;
