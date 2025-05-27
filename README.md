@@ -43,7 +43,7 @@
     }
     section {
       padding: 20px;
-      background: blacksolid;
+      background: #222;
       margin: 20px;
       border-radius: 8px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
