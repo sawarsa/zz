@@ -20,7 +20,7 @@
     
     }
      nav {
-            background-color: #2c3e50;
+            
             color: white;
             padding: 15px;
             display: flex;
@@ -36,7 +36,6 @@
         }
     header {
       h1: fontcolor: blacksolid;
-      background: #0b3d91;
       color: white;
       padding: 20px;
       text-align: leftcenter;
@@ -44,7 +43,6 @@
     }
     section {
       padding: 20px;
-      background: #222;
       margin: 20px;
       border-radius: 8px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -52,7 +50,6 @@
     footer {
       text-align: center;
       padding: 10px;
-      background: #222;
       color: #ccc;
     }
   </style>
