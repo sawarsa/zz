@@ -10,7 +10,8 @@
 
   <style>
     body {
-      
+      widht: 300px;
+      heigth: 300px;
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
