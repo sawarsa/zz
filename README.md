@@ -17,7 +17,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 20px;
-      background: #f4f4f4;
+    
     }
      nav {
             background-color: #2c3e50;
