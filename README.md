@@ -35,7 +35,7 @@
             text-decoration: underline;
         }
     header {
-      h1: fontcolor: blacksolid;
+    
       color: white;
       padding: 20px;
       text-align: leftcenter;
