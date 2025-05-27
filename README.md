@@ -14,7 +14,7 @@
       heigth: 300px;
       font-family: Arial, sans-serif;
       margin: 0;
-      padding: 0;
+      padding: 20px;
       background: #f4f4f4;
     }
      nav {
@@ -56,18 +56,15 @@
   </style>
 </head>
 <body>
-
-  <header id="home">
-    <h1>Pusat CCTV Batam</h1>
-    <p>Solusi keamanan rumah & bisnis Anda</p>
-  </header>
-  
   <nav>
     <a href="#home">Home</a>
         <a href="#profil">Profil</a>
         <a href="#kontak">Kontak</a>
         </nav> 
-
+  <header id="home">
+    <h1>Pusat CCTV Batam</h1>
+    <p>Solusi keamanan rumah & bisnis Anda</p>
+  </header>
   <section id="profil">
     <h2>Layanan Kami</h2>
     <ul>
