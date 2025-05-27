@@ -10,6 +10,7 @@
 
   <style>
     body {
+    
       widht: 300px;
       heigth: 300px;
       font-family: Arial, sans-serif;
@@ -22,7 +23,8 @@
             color: white;
             padding: 15px;
             display: flex;
-            justify-content: space-around;
+            
+            
         }
         nav a {
             color: white;
@@ -54,6 +56,7 @@
       color: #ccc;
     }
   </style>
+  
 </head>
 <body>
   <nav>
@@ -61,10 +64,12 @@
         <a href="#profil">Profil</a>
         <a href="#kontak">Kontak</a>
         </nav> 
+  
   <header id="home">
     <h1>Pusat CCTV Batam</h1>
     <p>Solusi keamanan rumah & bisnis Anda</p>
   </header>
+  
   <section id="profil">
     <h2>Layanan Kami</h2>
     <ul>
