@@ -46,6 +46,10 @@
     <h1>Pusat CCTV Batam</h1>
     <p>Solusi keamanan rumah & bisnis Anda</p>
   </header>
+   
+    <a href="#home">Home</a>
+        <a href="#profil">Profil</a>
+        <a href="#kontak">Kontak</a>
 
   <section>
     <h2>Layanan Kami</h2>
