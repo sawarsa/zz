@@ -57,7 +57,7 @@
 </head>
 <body>
 
-  <header>
+  <header id="home">
     <h1>Pusat CCTV Batam</h1>
     <p>Solusi keamanan rumah & bisnis Anda</p>
   </header>
@@ -68,7 +68,7 @@
         <a href="#kontak">Kontak</a>
         </nav> 
 
-  <section>
+  <section id="profil">
     <h2>Layanan Kami</h2>
     <ul>
       <li>Instalasi CCTV Rumah & Kantor</li>
@@ -81,7 +81,7 @@
     </ul>
   </section>
 
-  <section>
+  <section id="kontak">
     <h2>Kontak</h2>
     <p>WhatsApp: 0815-7335-4593</p>
     <p>Facebook: Kamera cctv batam</p>
