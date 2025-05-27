@@ -18,10 +18,11 @@
       background: #f4f4f4;
     }
     header {
+      h1: fontcolor: blacksolid;
       background: #0b3d91;
       color: white;
       padding: 20px;
-      text-align: center;
+      text-align: leftcenter;
 
     }
     section {
