@@ -10,7 +10,11 @@
 
   <style>
     body {
-    
+      background-image: url('https://imgur.com/a/y6E4IeC');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
       widht: 300px;
       heigth: 300px;
       font-family: Arial, sans-serif;
