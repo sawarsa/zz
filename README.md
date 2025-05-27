@@ -35,7 +35,7 @@
             text-decoration: underline;
         }
     header {
-    
+      font-color; blacksolid
       color: white;
       padding: 20px;
       text-align: leftcenter;
