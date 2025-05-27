@@ -17,6 +17,21 @@
       padding: 0;
       background: #f4f4f4;
     }
+     nav {
+            background-color: #2c3e50;
+            color: white;
+            padding: 15px;
+            display: flex;
+            justify-content: space-around;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
     header {
       h1: fontcolor: blacksolid;
       background: #0b3d91;
