@@ -11,7 +11,7 @@
   <style>
     body {
       background-image: url('https://imgur.com/a/y6E4IeC');
-      background-size: cover;
+      
       background-repeat: no-repeat;
       background-attachment: fixed;
      
