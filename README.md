@@ -18,7 +18,7 @@
     }
 
     nav {
-      background-color: rgba(0, 0, 0, 0.6);
+      background-color: rgba(1, 1, 1, 1.6);
       padding: 15px;
       display: flex;
       justify-content: space-around;
