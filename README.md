@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('https://imgur.com/a/bbCrYqu'); /* Gambar CCTV dari imgur */
+      background-image: url('https://imgur.com/a/bbCrYqu.jpeg'); /* Gambar CCTV dari imgur */
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
