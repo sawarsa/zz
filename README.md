@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('https://imgur.com/a/bbCrYqu.jpg'); /* Gambar CCTV dari imgur */
+      background-image: url('https://i.imgur.com/a/bbCrYqu.jpg');
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
@@ -25,7 +25,7 @@
     }
 
     nav a {
-      color: maroon;
+      color: white;
       text-decoration: none;
       font-weight: bold;
     }
