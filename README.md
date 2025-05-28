@@ -21,13 +21,13 @@
     }
      nav {
             
-            color: white;
+            color: gray;
             padding: 15px;
             display: flex;
             justify-content: space-around;
         }
         nav a {
-            color: white;
+            color: gray;
             text-decoration: none;
             font-weight: bold;
         }
@@ -35,7 +35,7 @@
             text-decoration: underline;
         }
     header {
-      font-color; blacksolid
+      font-color: maroon;
       color: white;
       padding: 20px;
       text-align: leftcenter;
