@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('https://images.unsplash.com/photo-1581092334714-1b9a9b785b5c'); /* Gambar CCTV dari Unsplash */
+      background-image: url('https://imgur.com/a/bbCrYqu'); /* Gambar CCTV dari imgur */
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
@@ -25,7 +25,7 @@
     }
 
     nav a {
-      color: white;
+      color: maroon;
       text-decoration: none;
       font-weight: bold;
     }
