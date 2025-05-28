@@ -38,6 +38,8 @@
       background-color: rgba(0, 0, 0, 0.5);
       padding: 40px 20px;
       text-align: center;
+        border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     }
 
     section {
@@ -53,6 +55,8 @@
       padding: 10px;
       color: #ddd;
       background-color: rgba(0, 0, 0, 0.6);
+        border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     }
   </style>
 </head>
